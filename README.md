@@ -1,6 +1,6 @@
 
 
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> Welcome to My Digital Universe!
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> Welcome to Muzammil Digital Universe!
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+There!+I'm+a+Passionate+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Full+Stack+Developer+%7C+Problem+Solver;Always+Learning+New+Technologies+%F0%9F%9A%80;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </div>
@@ -32,50 +32,29 @@ javascriptconst developer = {
 🛠️ Tech Stack & Tools
 <div align="center">
 💻 Programming Languages
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
 🎨 Frontend Development
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
 ⚡ Backend Development
-Show Image
-Show Image
-Show Image
-Show Image
 🗄️ Databases
-Show Image
-Show Image
-Show Image
-Show Image
+
 ☁️ Cloud & DevOps
-Show Image
-Show Image
-Show Image
-Show Image
+
 </div>
 
 📊 GitHub Analytics
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzammiltagrina&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muzammiltagrina&theme=tokyonight" alt="GitHub Streak" />
 </div>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muzammiltagrina&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=muzammiltagrina&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 🎯 Current Projects & Goals
@@ -146,7 +125,7 @@ If you like what I do, consider buying me a coffee!
 
 🐍 Contribution Snake
 <div align="center">
-  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/muzammiltagrina/muzammiltagrina/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 <div align="center">
